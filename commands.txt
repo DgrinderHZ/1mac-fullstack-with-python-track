@@ -1,0 +1,37 @@
+#OMAC - Full Stack - Part 2 - Lesson 1 - Getting Set Up with Python
+#Prepared by Codedu - https://macdiscussions.udacity.com/u/Codedu
+
+
+##################################################
+
+
+~		>	refers to home directory
+
+pwd		>	"print working directory", returns current/working directory path (pwd)
+
+ls		> 	"list", list current/working directory content (ls 'OR' ls/path/to/directory)
+
+start	>	opens directory/file in GUI (start directory 'OR' start file.ext)
+*TAB auto complete directories/files names, works as well with: ls, rm, rmdir, mkdir, cd, cd .., touch
+*(start .) opens current/working directory
+*open in mac, xdg-open in ubuntu
+
+cd		>	"change directory", change current/working directory to another directory (cd directory 'OR' cd directory/sub)
+*(cd) anywhere in the directories tree without a directory or path moves directly to the home directory 
+
+cd ..	>	moves up one level in directories tree
+
+mkdir	>	"make directory", create a new directory (mkdir dir 'OR' mkdir /path/dir 'OR' mkdir dir1 dir2 'OR' mkdir /path/dir1 /path/to/dir2 'OR' mkdir dir\ 2).
+*multiple directories can be created in one command by adding space between names, adding a space in directory's name should be preceded by a \
+
+touch	>	creates a new file (touch file.ext 'OR' touch /path/to/file.ext 'OR' touch file1.ext file2.ext 'OR' touch /path/to/file3.ext /path/to/file4.ext)
+
+rm		>	"remove", removes files (rm file.ext 'OR' rm file1.ext file2.ext 'OR' rm /path/file.ext 'OR' rm /path/file1.ext /path/file2.ext)
+
+rmdir	>	"remove directory", permanently remove ONLY empty directories (rmdir dir 'OR' rmdir dir1 dir2 'OR' rmdir /path/dir 'OR' rmdir /path/dir1 /path/dir2)
+
+rm -r	>	"recursive remove", removes a directory and all contents within (rm -r dir 'OR' rm -r dir1 dir2 'OR' rm -r /path/dir 'OR' rm -r /path/dir1 /path/dir2)
+*CAUTION, this command removes permanently, including ALL files and sub-directories, can't be reversed, be extra careful here!
+*Adding -i will ask for confirmation before deleting any file or directory, can be combined with r to be -ri
+
+(winpty python file.py 'OR' winpty python /path/file.py) runs a Python file from Windows using Git Bash

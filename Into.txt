@@ -1,0 +1,32 @@
+#OMAC - Full Stack - Part 2 - Lesson 2 - Introduction to Serious Programming
+#Prepared by Codedu - https://macdiscussions.udacity.com/u/Codedu
+
+
+##################################################
+
+
+What is Programming?
+Programming is the core of computer science, as most machines are built to do limited functionalities, programming is what we use to transform those machines into powerful and unlimited functionalities.
+
+What is a Program?
+A computer program is a set of instructions we put together to tell a computer what to do, how and when to do it. In short words, it enables us to turn computer into anything we can imagine!
+
+What is a Programming Language?
+A programming language is a formal and unified language with a set of rules that can be used to instruct a computing device to perform a specific task according to a set of instructions called a program.
+
+Why do we need Programming Languages?
+Because of multiple reasons, but the main 2 reasons are Ambiguity and Verbosity. If we to use human languages like English or Arabic to instruct computers to do a specific task, the same word can have 2 different meanings and as a result 2 different instructions (for example, biweekly means 2 different meanings in USA and UK, Úíä in Arabic which can refer to human eye or a water space or over a dozen other meanings "see: https://www.almaany.com/ar/dict/ar-ar/Úíä/"). Too, with different writing styles we may need a huge amount of text to tell computer to do something that programming language can tell in one line.
+
+
+What is Backus Naur Form?
+A notation technique, named after John Backus, used to define the syntax of a language used in computing. For instance, the computer grammar defined by a programming language would widely vary from those in a human language, as long as the end result matches the language's pre-set instructions (for example: the quiz in part 11, Python Eat Cookies).
+
+Python Grammar for Arithmetic Expressions: part 11, it is better to watch it in full, summary won't be of much help here :)
+
+
+Speedlight Example:
+print (299792458*100)/1000000000.0
+OR
+print ((299792458*100)*(1.0/1000000000))
+OR
+print 299792458*100*1/1000000000.0

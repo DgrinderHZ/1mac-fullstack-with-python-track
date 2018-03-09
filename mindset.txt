@@ -1,0 +1,23 @@
+#OMAC - Full Stack - Part 1 - Lesson 1 - Mindset
+#Prepared by Codedu - https://macdiscussions.udacity.com/u/Codedu
+
+
+##################################################
+
+
+To think like a programmer, you need to know how to think in 5 different ways:
+1. Procedural Thinking:		take a big problem and break the solution into steps
+2. Abstract Thinking:		understand and use shared patterns, knowing the abstract idea of things. i.e: 2 oranges, same as 2 apples, abstract 1+1
+3. Systematic Debugging:	identify problems -or potential problems- and track down potential cause until you find the cause and fix it
+4. Technological Empathy:	understanding how the computer see things, to think the way computer thinks
+5. Systems Thinking:		take 1 big idea and break it down into its component pieces
+
+Python 2 VS Python 3
+There's slight differences between both versions, for example, 
+in Python 3 [print] is now a function not a statement,
+ in V2 we'd write [print ""] but in V3 we'd write [print ("")], too, 
+in V2 if we divided whole numbers we get whole numbers without remainders, 
+auto rounded to a whole number, while in V3 whole numbers divisions returns remainders
+. i.e: in V2 5/2=2, 
+to get remainders in V2 we'd have to write 5.0/2 
+in order to get 2.5 as an answer, while in V3 5/2=2.5
