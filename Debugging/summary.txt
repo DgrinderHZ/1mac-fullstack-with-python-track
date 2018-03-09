@@ -1,0 +1,17 @@
+OMAC - Full Stack - Part 2 - Lesson 3 - Work Session: Basic Debugging
+#Prepared by Codedu - https://macdiscussions.udacity.com/u/Codedu
+
+
+##################################################
+
+
+The target is to simply teach you how to debug a code and find out errors "bugs",
+according to Python's set of rules, 2 different issues presented here:
+- Adding a space or indent before a statement that shouldn't be there will break your code,
+- Changing statement's letter case will break your code, 
+(for instance: Print instead of print) and
+- Adding more spaces or indents after the statement won't break your code 
+(for instance: "print hello" prints the same result as "print 	hello")
+
+One important thing to note, when you 'debug' the code and get the error message, 
+it is beneficial to start reading these errors from the bottom!
