@@ -1,0 +1,34 @@
+Language Ambiguous:
+
+Rahaf Jan 27, 2018 - Udacity forums
+
+
+My Own summarization  :heartpulse:
+The lesson itself is not that important but I think it’s very interesting !
+
+              Language Ambiguous    
+Why do we need to invent new languages like Python to programe computers , rather than using natural languages like Arabic English ?
+The simple answer is because English or any language are Highly Ambiguous !
+computers were stupid to understand what you mean and they don’t have brains like human .
+You have to directly tell them in very simple words and very limited grammar what to do.
+
+p.s : (Maybe computers will not be stupid anymore on account of A.I ):woman_shrugging:
+
+There’s an old joke about the boy’s mom telling him:
+
+“Go to the store and get a loaf of bread. If they have apples , get a dozen.” The boy comes home with a dozen loaves of bread!
+You see how our natural language can be Ambiguous !
+
+The second reason is that if we program computers in our natural languages , we are required to write extremely long texts , For example, for a simple “Hello, world!” program, we might write:
+
+I want “Hello, world!” printed in the screen.”
+
+“When it’s run, say: “Hello, world!”.”
+
+“Print “Hello, world!” on the screen. And do a return/line-feed afterwards.”
+
+“On a single line, write “Hello, world!”, but without the quotes.”
+
+Poor computers might get confused and programmers would waste their time !
+So, in order to avoid large texts… new languages have been
+, created which involves limited grammar and very few words , Also the computer can easily understand !
