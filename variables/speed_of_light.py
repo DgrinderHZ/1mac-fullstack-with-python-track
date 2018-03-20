@@ -9,7 +9,7 @@ speed of light = 299 792 458 m/s
 def speed_of_light(distance):
 	speed_of_light = 299792458
 	answer = speed_of_light * 100 # centimeters/second
-	answer = answer / 1000000000 # centimeters/nanosecond
+	answer = answer / 1000000000.0 # centimeters/nanosecond
 
 	return answer
 
