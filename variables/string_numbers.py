@@ -8,3 +8,4 @@ print name * 3
 number = 2018
 
 print str(number) + name
+#>>> 2018 DgrinderHZ
